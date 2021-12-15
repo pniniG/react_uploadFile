@@ -1,0 +1,28 @@
+.hidd{
+    display: none;
+}
+.fileup{
+  margin-bottom: 3%;
+} 
+div{
+  margin-left: 1%;
+  display: flex;
+  flex-direction:column;
+  align-items: flex-start;
+  width: 100%;
+
+}
+button{
+  transition-duration: 0.4s;
+ background-color:rgb(29, 85, 206);
+ color: white;
+ border: 2px solid rgb(29, 85, 206);
+ border-radius: 4px;
+ margin-bottom: 3%;
+}
+    
+button:active {
+  background-color:white;
+  color: rgb(29, 85, 206);
+
+}
